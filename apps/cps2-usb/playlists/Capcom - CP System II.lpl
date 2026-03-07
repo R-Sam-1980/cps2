@@ -1,0 +1,340 @@
+{
+  "version": "1.5",
+  "default_core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+  "default_core_name": "Arcade (FB Alpha 2012 CPS-2)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 3,
+  "left_thumbnail_mode": 2,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 1,
+  "items": [
+    {
+      "path": "usb:/games/cps2/1944.zip",
+      "label": "1944 - The Loop Master",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "D3CD25F2|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/19xx.zip",
+      "label": "19XX - The War Against Destiny",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "A3DDB605|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/avsp.zip",
+      "label": "Alien vs. Predator",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "4BFE3F71|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/armwar.zip",
+      "label": "Armored Warriors",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "E4CA3E59|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/batcir.zip",
+      "label": "Battle Circuit",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "B402FA51|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/csclub.zip",
+      "label": "Capcom Sports Club",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "3CC73D20|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/cybots.zip",
+      "label": "Cyberbots - Fullmetal Madness",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "7665466C|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/dstlk.zip",
+      "label": "Darkstalkers - The Night Warriors",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "C31741E5|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/dimahoo.zip",
+      "label": "Dimahoo",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "72E0E27A|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/ddsom.zip",
+      "label": "Dungeons & Dragons - Shadow over Mystara",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "8546133B|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/ddtod.zip",
+      "label": "Dungeons & Dragons - Tower of Doom",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "3480C0E8|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/ecofghtr.zip",
+      "label": "Eco Fighters",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "F7967835|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/gigawing.zip",
+      "label": "Giga Wing",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "AB0228A7|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/hsf2.zip",
+      "label": "Hyper Street Fighter II - The Anniversary Edition",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "673346FD|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/choko.zip",
+      "label": "Janpai Puzzle Choukou",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "A406029A|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/jyangoku.zip",
+      "label": "Jyangokushi - Haoh no Saihai",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "FD11BC92|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/mmatrix.zip",
+      "label": "Mars Matrix - Hyper Solid Shooting",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "D7C6AB6C|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/msh.zip",
+      "label": "Marvel Super Heroes",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "52F31C17|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/mshvsf.zip",
+      "label": "Marvel Super Heroes vs. Street Fighter",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "5E897C84|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/mvsc.zip",
+      "label": "Marvel vs. Capcom - Clash of Super Heroes",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "9302942E|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/mmancp2u.zip",
+      "label": "Mega Man - The Power Battle",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "62035888|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/megaman2.zip",
+      "label": "Mega Man 2 - The Power Fighters",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "F0DD6874|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/mpang.zip",
+      "label": "Mighty! Pang",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "87EFFC38|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/nwarr.zip",
+      "label": "Night Warriors - Darkstalkers' Revenge",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "6A9DBB19|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/progear.zip",
+      "label": "Progear",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "705FF2B3|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/pzloop2.zip",
+      "label": "Puzz Loop 2",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "1CC2DB97|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/qndream.zip",
+      "label": "Quiz Nanairo Dreams - Nijiirochou no Kiseki",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "34D21FCF|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/ringdest.zip",
+      "label": "Ring of Destruction - Slam Masters II",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "10660821|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/sfa.zip",
+      "label": "Street Fighter Alpha - Warriors' Dreams",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "1BF4890D|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/sfa2.zip",
+      "label": "Street Fighter Alpha 2",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "0C8733F2|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/sfa3.zip",
+      "label": "Street Fighter Alpha 3",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "4492FC52|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/sfz2al.zip",
+      "label": "Street Fighter Zero 2 Alpha",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "DD9434D2|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/sgemf.zip",
+      "label": "Super Gem Fighter - Mini Mix",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "3D5EB900|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/spf2t.zip",
+      "label": "Super Puzzle Fighter II Turbo",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "CB27EBA0|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/ssf2.zip",
+      "label": "Super Street Fighter II - The New Challengers",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "9F57BB3F|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/ssf2t.zip",
+      "label": "Super Street Fighter II Turbo",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "92B67A50|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/vhunt2.zip",
+      "label": "Vampire Hunter 2 - Darkstalkers' Revenge",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "024088A4|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/vsav.zip",
+      "label": "Vampire Savior - The Lord of Vampire",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "AB46F0EE|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/vsav2.zip",
+      "label": "Vampire Savior 2 - The Lord of Vampire",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "FFED36BB|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/xmcota.zip",
+      "label": "X-Men - Children of the Atom",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "24DE20B9|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "usb:/games/cps2/xmvsf.zip",
+      "label": "X-Men vs. Street Fighter",
+      "core_path": "usb:/apps/cps2-usb/fbalpha2012_cps2_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
+      "crc32": "F1A75536|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    }
+  ]
+}
