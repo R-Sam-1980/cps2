@@ -194,7 +194,7 @@
     },
     {
       "path": "/dev_hdd0/game/RETROARCH/USRDIR/games/cps2/mvsc.zip",
-      "label": "M - 漫威对卡普空",
+      "label": "M - 漫威对卡普空 超级英雄的碰撞",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "9302942E|crc",
