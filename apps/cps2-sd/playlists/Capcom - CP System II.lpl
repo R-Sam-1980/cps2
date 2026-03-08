@@ -29,7 +29,7 @@
       "label": "Alien vs. Predator",
       "core_path": "sd:/apps/cps2-sd/fbalpha2012_cps2_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-2)",
-      "crc32": "4BFE3F71|crc",
+      "crc32": "0537D847|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
@@ -165,15 +165,7 @@
       "label": "Marvel vs. Capcom - Clash of Super Heroes",
       "core_path": "sd:/apps/cps2-sd/fbalpha2012_cps2_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-2)",
-      "crc32": "9302942E|crc",
-      "db_name": "Capcom - CP System II.lpl"
-    },
-    {
-      "path": "sd:/games/cps2/mmancp2u.zip",
-      "label": "Mega Man - The Power Battle",
-      "core_path": "sd:/apps/cps2-sd/fbalpha2012_cps2_libretro_wii.dol",
-      "core_name": "Arcade (FB Alpha 2012 CPS-2)",
-      "crc32": "62035888|crc",
+      "crc32": "6EA78DD6|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
@@ -285,7 +277,7 @@
       "label": "Super Street Fighter II - The New Challengers",
       "core_path": "sd:/apps/cps2-sd/fbalpha2012_cps2_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-2)",
-      "crc32": "9F57BB3F|crc",
+      "crc32": "E437B912|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
