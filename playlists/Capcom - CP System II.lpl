@@ -9,19 +9,19 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "X:\\games\\cps2\\1944.zip",
+      "path": "X:\\games\\cps2\\1944d.zip",
       "label": "# - 1944 循环的征服者",
       "core_path": "DETECT",
       "core_name": "DETECT",
-      "crc32": "D3CD25F2|crc",
+      "crc32": "8AED6511|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "X:\\games\\cps2\\19xx.zip",
+      "path": "X:\\games\\cps2\\19xxd.zip",
       "label": "# - 19XX 命运否决战",
       "core_path": "DETECT",
       "core_name": "DETECT",
-      "crc32": "A3DDB605|crc",
+      "crc32": "696F34C6|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
@@ -57,11 +57,11 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "X:\\games\\cps2\\ssf2.zip",
+      "path": "X:\\games\\cps2\\ssf2d.zip",
       "label": "C - 超级街头霸王2 新的挑战者",
       "core_path": "DETECT",
       "core_name": "DETECT",
-      "crc32": "9F57BB3F|crc",
+      "crc32": "C77C5178|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
@@ -193,11 +193,11 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "X:\\games\\cps2\\mvsc.zip",
-      "label": "M - 漫威对卡普空",
+      "path": "X:\\games\\cps2\\mvscud.zip",
+      "label": "M - 漫威对卡普空 超级英雄的碰撞",
       "core_path": "DETECT",
       "core_name": "DETECT",
-      "crc32": "9302942E|crc",
+      "crc32": "73B92F08|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
