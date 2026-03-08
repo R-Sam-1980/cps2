@@ -13,7 +13,7 @@
       "label": "Marvel vs. Capcom - Clash of Super Heroes",
       "core_path": "usb:/apps/mvsc-usb/fbalpha2012_cps2_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-2)",
-      "crc32": "9302942E|crc",
+      "crc32": "6EA78DD6|crc",
       "db_name": "Capcom - CP System II.lpl"
     }
   ]

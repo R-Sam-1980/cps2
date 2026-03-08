@@ -13,7 +13,7 @@
       "label": "Alien vs. Predator",
       "core_path": "usb:/apps/avsp-usb/fbalpha2012_cps2_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-2)",
-      "crc32": "4BFE3F71|crc",
+      "crc32": "0537D847|crc",
       "db_name": "Capcom - CP System II.lpl"
     }
   ]
