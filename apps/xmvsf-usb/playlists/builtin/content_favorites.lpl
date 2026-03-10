@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "usb:/games/cps2/xmvsf.zip",
+      "path": "usb:/games/fba/cps2/xmvsf.zip",
       "label": "X-Men vs. Street Fighter",
       "core_path": "usb:/apps/xmvsf-usb/fbalpha2012_cps2_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-2)",

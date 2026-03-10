@@ -17,7 +17,7 @@ Website: https://github.com/R-Sam-1980/cps2</long_description>
   <no_ios_reload/>
   <ahb_access/>
   <arguments>
-    <arg>usb:/games/cps2</arg>
+    <arg>usb:/games/fba/cps2</arg>
     <arg>ssf2t.zip</arg>
   </arguments>
 </app>

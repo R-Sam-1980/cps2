@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "usb:/games/cps2/1944.zip",
+      "path": "usb:/games/fba/cps2/1944.zip",
       "label": "1944 - The Loop Master",
       "core_path": "usb:/apps/1944-usb/fbalpha2012_cps2_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-2)",
