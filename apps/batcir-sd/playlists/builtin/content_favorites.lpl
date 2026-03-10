@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "sd:/games/cps2/batcir.zip",
+      "path": "sd:/games/fba/cps2/batcir.zip",
       "label": "Battle Circuit",
       "core_path": "sd:/apps/batcir-sd/fbalpha2012_cps2_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-2)",

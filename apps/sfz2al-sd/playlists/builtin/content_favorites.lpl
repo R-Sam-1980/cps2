@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "sd:/games/cps2/sfz2al.zip",
+      "path": "sd:/games/fba/cps2/sfz2al.zip",
       "label": "Street Fighter Zero 2 Alpha",
       "core_path": "sd:/apps/sfz2al-sd/fbalpha2012_cps2_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-2)",

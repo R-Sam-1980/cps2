@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "sd:/games/cps2/jyangoku.zip",
+      "path": "sd:/games/fba/cps2/jyangoku.zip",
       "label": "Jyangokushi - Haoh no Saihai",
       "core_path": "sd:/apps/jyangoku-sd/fbalpha2012_cps2_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-2)",
