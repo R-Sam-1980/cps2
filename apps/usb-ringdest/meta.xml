@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Slam Masters 2</name>
+  <author>Libretro &amp; R-Sam</author>
+  <version>1.22.2.usb</version>
+  <release_date>2025-11-20 10:41</release_date>
+  <short_description>Capcom Play System 2 Emulator</short_description>
+  <long_description>Ring of Destruction - Slam Masters II
+
+- Developer &amp; Publisher: Capcom
+- Genre: Fighting
+- Release Date: 1994
+- Max Players: 2
+
+Wii Channel: usb:/wad/cps2
+Website: https://github.com/R-Sam-1980/cps2</long_description>
+  <no_ios_reload />
+  <ahb_access />
+  <arguments>
+    <arg>usb:/arcade/fba/cps2</arg>
+    <arg>ringdest.zip</arg>
+  </arguments>
+</app>
