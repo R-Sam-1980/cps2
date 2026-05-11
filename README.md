@@ -1,18 +1,18 @@
 # Windows 版 RetroArch 使用的 CPS2 街机游戏资源
 
 
-## Capcom - CP System II.lpl
+## 列表
 
-游戏目录：X:\\arcade\\cps2
-
-
-## 列表图标
+- 列表文件：Capcom - CP System II.lpl
+- ROM 文件所在目录：X:\\arcade\\cps2
+- 列表图标：
 
 ![Capcom - CP System II](.\assets\xmb\monochrome\png\Capcom%20-%20CP%20System%20II.png)
 
 
 ## 缩略图
 
+- 缩略图文件名和 ROM 文件名相同
 - Named_Boxarts 文件夹里的图片统一尺寸为：600x745，图片来自：https://emumovies.com/files/file/5512-capcom-arcade-25d-custom-box-fronts
 - Named_Logos 文件夹里的图片统一尺寸为：400x200
 - Named_Snaps 和 Named_Titles 文件夹里的图片统一尺寸为：384x224 或 224x384
