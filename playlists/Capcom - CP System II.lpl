@@ -26,7 +26,7 @@
     },
     {
       "path": "~/Documents/RetroArch/arcade/cps2/mpang.zip",
-      "label": "C - 超强魔鬼气泡",
+      "label": "C - 超强魔法气泡",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "87EFFC38|crc",
@@ -50,7 +50,7 @@
     },
     {
       "path": "~/Documents/RetroArch/arcade/cps2/hsf2.zip",
-      "label": "C - 超级街头霸王2 十五周年纪念版",
+      "label": "C - 超级街头霸王2 周年纪念版",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "673346FD|crc",
@@ -58,55 +58,31 @@
     },
     {
       "path": "~/Documents/RetroArch/arcade/cps2/ssf2d.zip",
-      "label": "C - 超级街头霸王2 新的挑战者",
+      "label": "C - 超级街头霸王2 新挑战者",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "C77C5178|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
+      "path": "~/Documents/RetroArch/arcade/cps2/dimahoo.zip",
+      "label": "C - 超级魔法大作战",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "72E0E27A|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
       "path": "~/Documents/RetroArch/arcade/cps2/dstlk.zip",
-      "label": "E - 恶魔战士",
+      "label": "E - 恶魔战士 午夜斗士",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "C31741E5|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "~/Documents/RetroArch/arcade/cps2/vsav.zip",
-      "label": "E - 恶魔救世主1",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "AB46F0EE|crc",
-      "db_name": "Capcom - CP System II.lpl"
-    },
-    {
-      "path": "~/Documents/RetroArch/arcade/cps2/vsav2.zip",
-      "label": "E - 恶魔救世主2",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "FFED36BB|crc",
-      "db_name": "Capcom - CP System II.lpl"
-    },
-    {
-      "path": "~/Documents/RetroArch/arcade/cps2/nwarr.zip",
-      "label": "E - 恶魔猎人1",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "6A9DBB19|crc",
-      "db_name": "Capcom - CP System II.lpl"
-    },
-    {
-      "path": "~/Documents/RetroArch/arcade/cps2/vhunt2.zip",
-      "label": "E - 恶魔猎人2",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "024088A4|crc",
-      "db_name": "Capcom - CP System II.lpl"
-    },
-    {
       "path": "~/Documents/RetroArch/arcade/cps2/mmatrix.zip",
-      "label": "H - 火星矩阵",
+      "label": "H - 火星矩阵 超固体射击",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "D7C6AB6C|crc",
@@ -129,14 +105,6 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "~/Documents/RetroArch/arcade/cps2/dimahoo.zip",
-      "label": "J - 疾风魔法大作战",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "72E0E27A|crc",
-      "db_name": "Capcom - CP System II.lpl"
-    },
-    {
       "path": "~/Documents/RetroArch/arcade/cps2/spf2td.zip",
       "label": "J - 街霸方块",
       "core_path": "DETECT",
@@ -154,7 +122,7 @@
     },
     {
       "path": "~/Documents/RetroArch/arcade/cps2/mmancp2u.zip",
-      "label": "L - 洛克人1 力量之战",
+      "label": "L - 洛克人1 力量之战 (CPS2版)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "62035888|crc",
@@ -162,18 +130,10 @@
     },
     {
       "path": "~/Documents/RetroArch/arcade/cps2/megaman2.zip",
-      "label": "L - 洛克人2 力量对决 ",
+      "label": "L - 洛克人2 力量对决",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "F0DD6874|crc",
-      "db_name": "Capcom - CP System II.lpl"
-    },
-    {
-      "path": "~/Documents/RetroArch/arcade/cps2/gigawing.zip",
-      "label": "L - 雷鸟之翼",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "AB0228A7|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
@@ -225,6 +185,14 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
+      "path": "~/Documents/RetroArch/arcade/cps2/gigawing.zip",
+      "label": "Q - 千兆之翼",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AB0228A7|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
       "path": "~/Documents/RetroArch/arcade/cps2/jyangoku.zip",
       "label": "Q - 雀国志 霸王的采牌",
       "core_path": "DETECT",
@@ -234,7 +202,7 @@
     },
     {
       "path": "~/Documents/RetroArch/arcade/cps2/sfa.zip",
-      "label": "S - 少年街霸1 斗士的梦想",
+      "label": "S - 少年街霸1 斗士之梦",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "1BF4890D|crc",
@@ -297,11 +265,35 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "~/Documents/RetroArch/arcade/cps2/pzloop2.zip",
-      "label": "X - 旋转泡泡2",
+      "path": "~/Documents/RetroArch/arcade/cps2/vsav.zip",
+      "label": "X - 吸血鬼救世主1 吸血鬼之王",
       "core_path": "DETECT",
       "core_name": "DETECT",
-      "crc32": "1CC2DB97|crc",
+      "crc32": "AB46F0EE|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/arcade/cps2/vsav2.zip",
+      "label": "X - 吸血鬼救世主2 吸血鬼之王",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FFED36BB|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/arcade/cps2/nwarr.zip",
+      "label": "X - 吸血鬼猎人1 恶魔的复仇",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6A9DBB19|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/arcade/cps2/vhunt2.zip",
+      "label": "X - 吸血鬼猎人2 恶魔的复仇",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "024088A4|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
@@ -309,7 +301,7 @@
       "label": "Y - 异形对铁血战士",
       "core_path": "DETECT",
       "core_name": "DETECT",
-      "crc32": "4BFE3F71|crc",
+      "crc32": "0537D847|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
@@ -326,6 +318,14 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "B402FA51|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "~/Documents/RetroArch/arcade/cps2/pzloop2.zip",
+      "label": "Z - 智力循环2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1CC2DB97|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
