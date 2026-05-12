@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "/storage/emulated/0/arcade/cps/1944d.zip",
+      "path": "/storage/emulated/0/arcade/cps2/1944d.zip",
       "label": "# - 1944 循环的征服者",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -17,7 +17,7 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/19xxd.zip",
+      "path": "/storage/emulated/0/arcade/cps2/19xxd.zip",
       "label": "# - 19XX 命运否决战",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -25,15 +25,15 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/mpang.zip",
-      "label": "C - 超强魔鬼气泡",
+      "path": "/storage/emulated/0/arcade/cps2/mpang.zip",
+      "label": "C - 超强魔法气泡",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "87EFFC38|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/sgemf.zip",
+      "path": "/storage/emulated/0/arcade/cps2/sgemf.zip",
       "label": "C - 超级口袋战士",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -41,7 +41,7 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/ssf2t.zip",
+      "path": "/storage/emulated/0/arcade/cps2/ssf2t.zip",
       "label": "C - 超级街头霸王2 加强版",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -49,71 +49,47 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/hsf2.zip",
-      "label": "C - 超级街头霸王2 十五周年纪念版",
+      "path": "/storage/emulated/0/arcade/cps2/hsf2.zip",
+      "label": "C - 超级街头霸王2 周年纪念版",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "673346FD|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/ssf2d.zip",
-      "label": "C - 超级街头霸王2 新的挑战者",
+      "path": "/storage/emulated/0/arcade/cps2/ssf2d.zip",
+      "label": "C - 超级街头霸王2 新挑战者",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "C77C5178|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/dstlk.zip",
-      "label": "E - 恶魔战士",
+      "path": "/storage/emulated/0/arcade/cps2/dimahoo.zip",
+      "label": "C - 超级魔法大作战",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "72E0E27A|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/arcade/cps2/dstlk.zip",
+      "label": "E - 恶魔战士 午夜斗士",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "C31741E5|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/vsav.zip",
-      "label": "E - 恶魔救世主1",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "AB46F0EE|crc",
-      "db_name": "Capcom - CP System II.lpl"
-    },
-    {
-      "path": "/storage/emulated/0/arcade/cps/vsav2.zip",
-      "label": "E - 恶魔救世主2",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "FFED36BB|crc",
-      "db_name": "Capcom - CP System II.lpl"
-    },
-    {
-      "path": "/storage/emulated/0/arcade/cps/nwarr.zip",
-      "label": "E - 恶魔猎人1",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "6A9DBB19|crc",
-      "db_name": "Capcom - CP System II.lpl"
-    },
-    {
-      "path": "/storage/emulated/0/arcade/cps/vhunt2.zip",
-      "label": "E - 恶魔猎人2",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "024088A4|crc",
-      "db_name": "Capcom - CP System II.lpl"
-    },
-    {
-      "path": "/storage/emulated/0/arcade/cps/mmatrix.zip",
-      "label": "H - 火星矩阵",
+      "path": "/storage/emulated/0/arcade/cps2/mmatrix.zip",
+      "label": "H - 火星矩阵 超固体射击",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "D7C6AB6C|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/ecofghtr.zip",
+      "path": "/storage/emulated/0/arcade/cps2/ecofghtr.zip",
       "label": "H - 环保战士",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -121,7 +97,7 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/cybots.zip",
+      "path": "/storage/emulated/0/arcade/cps2/cybots.zip",
       "label": "J - 机甲战士 全金属狂潮",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -129,15 +105,7 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/dimahoo.zip",
-      "label": "J - 疾风魔法大作战",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "72E0E27A|crc",
-      "db_name": "Capcom - CP System II.lpl"
-    },
-    {
-      "path": "/storage/emulated/0/arcade/cps/spf2td.zip",
+      "path": "/storage/emulated/0/arcade/cps2/spf2td.zip",
       "label": "J - 街霸方块",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -145,7 +113,7 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/csclub.zip",
+      "path": "/storage/emulated/0/arcade/cps2/csclub.zip",
       "label": "K - 卡普空运动俱乐部",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -153,31 +121,23 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/mmancp2u.zip",
-      "label": "L - 洛克人1 力量之战",
+      "path": "/storage/emulated/0/arcade/cps2/mmancp2u.zip",
+      "label": "L - 洛克人1 力量之战 (CPS2版)",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "62035888|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/megaman2.zip",
-      "label": "L - 洛克人2 力量对决 ",
+      "path": "/storage/emulated/0/arcade/cps2/megaman2.zip",
+      "label": "L - 洛克人2 力量对决",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "F0DD6874|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/gigawing.zip",
-      "label": "L - 雷鸟之翼",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "AB0228A7|crc",
-      "db_name": "Capcom - CP System II.lpl"
-    },
-    {
-      "path": "/storage/emulated/0/arcade/cps/ddtod.zip",
+      "path": "/storage/emulated/0/arcade/cps2/ddtod.zip",
       "label": "L - 龙与地下城1 毁灭之塔",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -185,7 +145,7 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/ddsom.zip",
+      "path": "/storage/emulated/0/arcade/cps2/ddsom.zip",
       "label": "L - 龙与地下城2 暗黑秘影",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -193,7 +153,7 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/mvscud.zip",
+      "path": "/storage/emulated/0/arcade/cps2/mvscud.zip",
       "label": "M - 漫威对卡普空 超级英雄的碰撞",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -201,7 +161,7 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/mshvsf.zip",
+      "path": "/storage/emulated/0/arcade/cps2/mshvsf.zip",
       "label": "M - 漫威对街霸",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -209,7 +169,7 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/msh.zip",
+      "path": "/storage/emulated/0/arcade/cps2/msh.zip",
       "label": "M - 漫威超级英雄",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -217,7 +177,7 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/progear.zip",
+      "path": "/storage/emulated/0/arcade/cps2/progear.zip",
       "label": "N - 能源之岚",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -225,7 +185,15 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/jyangoku.zip",
+      "path": "/storage/emulated/0/arcade/cps2/gigawing.zip",
+      "label": "Q - 千兆之翼",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AB0228A7|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/arcade/cps2/jyangoku.zip",
       "label": "Q - 雀国志 霸王的采牌",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -233,15 +201,15 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/sfa.zip",
-      "label": "S - 少年街霸1 斗士的梦想",
+      "path": "/storage/emulated/0/arcade/cps2/sfa.zip",
+      "label": "S - 少年街霸1 斗士之梦",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "1BF4890D|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/sfa2.zip",
+      "path": "/storage/emulated/0/arcade/cps2/sfa2.zip",
       "label": "S - 少年街霸2",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -249,7 +217,7 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/sfz2al.zip",
+      "path": "/storage/emulated/0/arcade/cps2/sfz2al.zip",
       "label": "S - 少年街霸2 Alpha",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -257,7 +225,7 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/sfa3.zip",
+      "path": "/storage/emulated/0/arcade/cps2/sfa3.zip",
       "label": "S - 少年街霸3",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -265,7 +233,7 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/ringdest.zip",
+      "path": "/storage/emulated/0/arcade/cps2/ringdest.zip",
       "label": "S - 摔角霸王2 连环爆裂",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -273,7 +241,7 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/qndream.zip",
+      "path": "/storage/emulated/0/arcade/cps2/qndream.zip",
       "label": "W - 问答七彩梦 虹色町的奇迹",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -281,7 +249,7 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/xmcota.zip",
+      "path": "/storage/emulated/0/arcade/cps2/xmcota.zip",
       "label": "X - X战警 磁场原子人",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -289,7 +257,7 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/xmvsf.zip",
+      "path": "/storage/emulated/0/arcade/cps2/xmvsf.zip",
       "label": "X - X战警对街霸",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -297,23 +265,47 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/pzloop2.zip",
-      "label": "X - 旋转泡泡2",
+      "path": "/storage/emulated/0/arcade/cps2/vsav.zip",
+      "label": "X - 吸血鬼救世主1 吸血鬼之王",
       "core_path": "DETECT",
       "core_name": "DETECT",
-      "crc32": "1CC2DB97|crc",
+      "crc32": "AB46F0EE|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/avsp.zip",
+      "path": "/storage/emulated/0/arcade/cps2/vsav2.zip",
+      "label": "X - 吸血鬼救世主2 吸血鬼之王",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FFED36BB|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/arcade/cps2/nwarr.zip",
+      "label": "X - 吸血鬼猎人1 恶魔的复仇",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6A9DBB19|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/arcade/cps2/vhunt2.zip",
+      "label": "X - 吸血鬼猎人2 恶魔的复仇",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "024088A4|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/arcade/cps2/avsp.zip",
       "label": "Y - 异形对铁血战士",
       "core_path": "DETECT",
       "core_name": "DETECT",
-      "crc32": "4BFE3F71|crc",
+      "crc32": "0537D847|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/choko.zip",
+      "path": "/storage/emulated/0/arcade/cps2/choko.zip",
       "label": "Y - 益智麻将牌 长江",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -321,7 +313,7 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/batcir.zip",
+      "path": "/storage/emulated/0/arcade/cps2/batcir.zip",
       "label": "Z - 战斗回路",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -329,7 +321,15 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps/armwar.zip",
+      "path": "/storage/emulated/0/arcade/cps2/pzloop2.zip",
+      "label": "Z - 智力循环2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1CC2DB97|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/arcade/cps2/armwar.zip",
       "label": "Z - 装甲战士",
       "core_path": "DETECT",
       "core_name": "DETECT",
