@@ -7,7 +7,7 @@ Wii 版的 RetroArch 使用 Arcade (FB Alpha 2012 CPS-2) 核心来加载 CPS2 �
 
 序号 | ROM 文件 | CRC32 | 英文名 | 中文名
 --- | --- | --- | --- | ---
-1 | 1944.zip | BF48AE9D | 1944 - The Loop Master | # - 1944 循环的征服者
+1 | 1944.zip | BF48AE9D | 1944 - The Loop Master | # - 1944 征服世界
 2 | 19xx.zip | 6BB6455B | 19XX - The War Against Destiny | # - 19XX 命运否决战
 3 | armwar.zip | E4CA3E59 | Armored Warriors | Z - 装甲战士
 4 | avsp.zip | 0537D847 | Alien vs. Predator | Y - 异形对铁血战士
@@ -27,8 +27,8 @@ Wii 版的 RetroArch 使用 Arcade (FB Alpha 2012 CPS-2) 核心来加载 CPS2 �
 18 | mmatrix.zip | D7C6AB6C | Mars Matrix - Hyper Solid Shooting | H - 火星矩阵 超固体射击
 19 | mpang.zip | 87EFFC38 | Mighty! Pang | C - 超强魔法气泡
 20 | msh.zip | 52F31C17 | Marvel Super Heroes | M - 漫威超级英雄
-21 | mshvsf.zip | 5E897C84 | Marvel Super Heroes vs. Street Fighter | M - 漫威对街霸
-22 | mvsc.zip | 6EA78DD6 | Marvel vs. Capcom - Clash of Super Heroes | M - 漫威对卡普空 超级英雄的碰撞
+21 | mshvsf.zip | 5E897C84 | Marvel Super Heroes vs. Street Fighter | M - 漫威超级英雄对街头霸王
+22 | mvsc.zip | 6EA78DD6 | Marvel vs. Capcom - Clash of Super Heroes | M - 漫威对卡普空 超级英雄乱斗
 23 | nwarr.zip | 6A9DBB19 | Night Warriors - Darkstalkers' Revenge | X - 吸血鬼猎人1 恶魔的复仇
 24 | progear.zip | 705FF2B3 | Progear | N - 能源之岚
 25 | pzloop2.zip | 1CC2DB97 | Puzz Loop 2 | Z - 智力循环2
@@ -41,10 +41,10 @@ Wii 版的 RetroArch 使用 Arcade (FB Alpha 2012 CPS-2) 核心来加载 CPS2 �
 32 | sgemf.zip | 3D5EB900 | Super Gem Fighter - Mini Mix | C - 超级口袋战士
 33 | spf2t.zip | F0DEA86D | Super Puzzle Fighter II Turbo | J - 街霸方块
 34 | ssf2.zip | E437B912 | Super Street Fighter II - The New Challengers | C - 超级街头霸王2 新挑战者
-35 | ssf2t.zip | 92B67A50 | Super Street Fighter II Turbo | C - 超级街头霸王2 加强版
+35 | ssf2t.zip | 92B67A50 | Super Street Fighter II Turbo | C - 超级街头霸王2 加速版
 36 | vhunt2.zip | 024088A4 | Vampire Hunter 2 - Darkstalkers' Revenge | X - 吸血鬼猎人2 恶魔的复仇
-37 | vsav.zip | AB46F0EE | Vampire Savior - The Lord of Vampire | X - 吸血鬼救世主1 吸血鬼之王
-38 | vsav2.zip | FFED36BB | Vampire Savior 2 - The Lord of Vampire | X - 吸血鬼救世主2 吸血鬼之王
+37 | vsav.zip | AB46F0EE | Vampire Savior - The Lord of Vampire | X - 恶魔救世主1 吸血鬼之王
+38 | vsav2.zip | FFED36BB | Vampire Savior 2 - The Lord of Vampire | X - 恶魔救世主2 吸血鬼之王
 39 | xmcota.zip | 24DE20B9 | X-Men - Children of the Atom | X - X战警 磁场原子人
 40 | xmvsf.zip | F1A75536 | X-Men vs. Street Fighter | X - X战警对街霸
 
