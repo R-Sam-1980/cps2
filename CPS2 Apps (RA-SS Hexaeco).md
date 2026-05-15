@@ -47,7 +47,7 @@
 37 | Vampire Savior | ![](./apps/usb-vsav-ss/icon.png) | X - 恶魔救世主1 吸血鬼之王 | vsav.zip
 38 | Vampire Savior 2 | ![](./apps/usb-vsav2-ss/icon.png) | X - 恶魔救世主2 吸血鬼之王 | vsav2.zip
 39 | X-Men | ![](./apps/usb-xmcota-ss/icon.png) | X - X战警 磁场原子人 | xmcota.zip
-40 | X-Men vs. Street Fighter | ![](./apps/usb-xmvsf-ss/icon.png) | X - X战警对街霸 | xmvsf.zip
+40 | X-Men vs. Street Fighter | ![](./apps/usb-xmvsf-ss/icon.png) | X - X战警对街头霸王 | xmvsf.zip
 
 
 ## 按游戏中文名排序
@@ -84,7 +84,7 @@
 28 | S - 摔角霸王2 连环爆裂 | ![](./apps/usb-ringdest-ss/icon.png) | Slam Masters 2 | ringdest.zip
 29 | W - 问答七彩梦 虹色町的奇迹 | ![](./apps/usb-qndream-ss/icon.png) | Quiz Nanairo Dreams | qndream.zip
 30 | X - X战警 磁场原子人 | ![](./apps/usb-xmcota-ss/icon.png) | X-Men | xmcota.zip
-31 | X - X战警对街霸 | ![](./apps/usb-xmvsf-ss/icon.png) | X-Men vs. Street Fighter | xmvsf.zip
+31 | X - X战警对街头霸王 | ![](./apps/usb-xmvsf-ss/icon.png) | X-Men vs. Street Fighter | xmvsf.zip
 32 | X - 吸血鬼猎人1 恶魔的复仇 | ![](./apps/usb-nwarr-ss/icon.png) | Vampire Hunter | nwarr.zip
 33 | X - 吸血鬼猎人2 恶魔的复仇 | ![](./apps/usb-vhunt2-ss/icon.png) | Vampire Hunter 2 | vhunt2.zip
 34 | X - 恶魔救世主1 吸血鬼之王 | ![](./apps/usb-vsav-ss/icon.png) | Vampire Savior | vsav.zip
