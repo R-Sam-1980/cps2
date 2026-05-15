@@ -8,7 +8,7 @@
 
 序号 | App 名称 | App 图标 | 游戏中文名 | ROM 文件
 --- | --- | --- | --- | ---
-1 | 1944 - The Loop Master | ![](./apps/usb-1944-ss/icon.png) | # - 1944 循环的征服者 | 1944.zip
+1 | 1944 - The Loop Master | ![](./apps/usb-1944-ss/icon.png) | # - 1944 征服世界 | 1944.zip
 2 | 19XX | ![](./apps/usb-19xx-ss/icon.png) | # - 19XX 命运否决战 | 19xx.zip
 3 | Alien vs. Predator | ![](./apps/usb-avsp-ss/icon.png) | Y - 异形对铁血战士 | avsp.zip
 4 | Armored Warriors | ![](./apps/usb-armwar-ss/icon.png) | Z - 装甲战士 | armwar.zip
@@ -26,8 +26,8 @@
 16 | Jyangokushi | ![](./apps/usb-jyangoku-ss/icon.png) | Q - 雀国志 霸王的采牌 | jyangoku.zip
 17 | Mars Matrix | ![](./apps/usb-mmatrix-ss/icon.png) | H - 火星矩阵 超固体射击 | mmatrix.zip
 18 | Marvel Super Heroes | ![](./apps/usb-msh-ss/icon.png) | M - 漫威超级英雄 | msh.zip
-19 | Marvel vs. Capcom | ![](./apps/usb-mvsc-ss/icon.png) | M - 漫威对卡普空 超级英雄的碰撞 | mvsc.zip
-20 | Marvel vs. Street Fighter | ![](./apps/usb-mshvsf-ss/icon.png) | M - 漫威对街霸 | mshvsf.zip
+19 | Marvel vs. Capcom | ![](./apps/usb-mvsc-ss/icon.png) | M - 漫威对卡普空 超级英雄乱斗 | mvsc.zip
+20 | Marvel vs. Street Fighter | ![](./apps/usb-mshvsf-ss/icon.png) | M - 漫威超级英雄对街头霸王 | mshvsf.zip
 21 | Mega Man 2 | ![](./apps/usb-megaman2-ss/icon.png) | L - 洛克人2 力量对决 | megaman2.zip
 22 | Mighty! Pang | ![](./apps/usb-mpang-ss/icon.png) | C - 超强魔法气泡 | mpang.zip
 23 | Progear | ![](./apps/usb-progear-ss/icon.png) | N - 能源之岚 | progear.zip
@@ -41,11 +41,11 @@
 31 | Super Gem Fighter | ![](./apps/usb-sgemf-ss/icon.png) | C - 超级口袋战士 | sgemf.zip
 32 | Super Puzzle Fighter | ![](./apps/usb-spf2t-ss/icon.png) | J - 街霸方块 | spf2t.zip
 33 | Super Street Fighter 2 | ![](./apps/usb-ssf2-ss/icon.png) | C - 超级街头霸王2 新挑战者 | ssf2.zip
-34 | Super Street Fighter 2X | ![](./apps/usb-ssf2t-ss/icon.png) | C - 超级街头霸王2 加强版 | ssf2t.zip
+34 | Super Street Fighter 2X | ![](./apps/usb-ssf2t-ss/icon.png) | C - 超级街头霸王2 加速版 | ssf2t.zip
 35 | Vampire Hunter | ![](./apps/usb-nwarr-ss/icon.png) | X - 吸血鬼猎人1 恶魔的复仇 | nwarr.zip
 36 | Vampire Hunter 2 | ![](./apps/usb-vhunt2-ss/icon.png) | X - 吸血鬼猎人2 恶魔的复仇 | vhunt2.zip
-37 | Vampire Savior | ![](./apps/usb-vsav-ss/icon.png) | X - 吸血鬼救世主1 吸血鬼之王 | vsav.zip
-38 | Vampire Savior 2 | ![](./apps/usb-vsav2-ss/icon.png) | X - 吸血鬼救世主2 吸血鬼之王 | vsav2.zip
+37 | Vampire Savior | ![](./apps/usb-vsav-ss/icon.png) | X - 恶魔救世主1 吸血鬼之王 | vsav.zip
+38 | Vampire Savior 2 | ![](./apps/usb-vsav2-ss/icon.png) | X - 恶魔救世主2 吸血鬼之王 | vsav2.zip
 39 | X-Men | ![](./apps/usb-xmcota-ss/icon.png) | X - X战警 磁场原子人 | xmcota.zip
 40 | X-Men vs. Street Fighter | ![](./apps/usb-xmvsf-ss/icon.png) | X - X战警对街霸 | xmvsf.zip
 
@@ -54,11 +54,11 @@
 
 序号 | 游戏中文名 | App 图标 | App 名称 | ROM 文件
 --- | --- | --- | --- | ---
-1 | # - 1944 循环的征服者 | ![](./apps/usb-1944-ss/icon.png) | 1944 - The Loop Master | 1944.zip
+1 | # - 1944 征服世界 | ![](./apps/usb-1944-ss/icon.png) | 1944 - The Loop Master | 1944.zip
 2 | # - 19XX 命运否决战 | ![](./apps/usb-19xx-ss/icon.png) | 19XX | 19xx.zip
 3 | C - 超强魔法气泡 | ![](./apps/usb-mpang-ss/icon.png) | Mighty! Pang | mpang.zip
 4 | C - 超级口袋战士 | ![](./apps/usb-sgemf-ss/icon.png) | Super Gem Fighter | sgemf.zip
-5 | C - 超级街头霸王2 加强版 | ![](./apps/usb-ssf2t-ss/icon.png) | Super Street Fighter 2X | ssf2t.zip
+5 | C - 超级街头霸王2 加速版 | ![](./apps/usb-ssf2t-ss/icon.png) | Super Street Fighter 2X | ssf2t.zip
 6 | C - 超级街头霸王2 周年纪念版 | ![](./apps/usb-hsf2-ss/icon.png) | Hyper Street Fighter 2 | hsf2.zip
 7 | C - 超级街头霸王2 新挑战者 | ![](./apps/usb-ssf2-ss/icon.png) | Super Street Fighter 2 | ssf2.zip
 8 | C - 超级魔法大作战 | ![](./apps/usb-dimahoo-ss/icon.png) | Dimahoo | dimahoo.zip
@@ -71,9 +71,9 @@
 15 | L - 洛克人2 力量对决 | ![](./apps/usb-megaman2-ss/icon.png) | Mega Man 2 | megaman2.zip
 16 | L - 龙与地下城1 毁灭之塔 | ![](./apps/usb-ddtod-ss/icon.png) | Dungeons & Dragons | ddtod.zip
 17 | L - 龙与地下城2 暗黑秘影 | ![](./apps/usb-ddsom-ss/icon.png) | Dungeons & Dragons 2 | ddsom.zip
-18 | M - 漫威对卡普空 超级英雄的碰撞 | ![](./apps/usb-mvsc-ss/icon.png) | Marvel vs. Capcom | mvsc.zip
-19 | M - 漫威对街霸 | ![](./apps/usb-mshvsf-ss/icon.png) | Marvel vs. Street Fighter | mshvsf.zip
-20 | M - 漫威超级英雄 | ![](./apps/usb-msh-ss/icon.png) | Marvel Super Heroes | msh.zip
+18 | M - 漫威对卡普空 超级英雄乱斗 | ![](./apps/usb-mvsc-ss/icon.png) | Marvel vs. Capcom | mvsc.zip
+19 | M - 漫威超级英雄 | ![](./apps/usb-msh-ss/icon.png) | Marvel Super Heroes | msh.zip
+20 | M - 漫威超级英雄对街头霸王 | ![](./apps/usb-mshvsf-ss/icon.png) | Marvel vs. Street Fighter | mshvsf.zip
 21 | N - 能源之岚 | ![](./apps/usb-progear-ss/icon.png) | Progear | progear.zip
 22 | Q - 千兆之翼 | ![](./apps/usb-gigawing-ss/icon.png) | Giga Wing | gigawing.zip
 23 | Q - 雀国志 霸王的采牌 | ![](./apps/usb-jyangoku-ss/icon.png) | Jyangokushi | jyangoku.zip
@@ -85,10 +85,10 @@
 29 | W - 问答七彩梦 虹色町的奇迹 | ![](./apps/usb-qndream-ss/icon.png) | Quiz Nanairo Dreams | qndream.zip
 30 | X - X战警 磁场原子人 | ![](./apps/usb-xmcota-ss/icon.png) | X-Men | xmcota.zip
 31 | X - X战警对街霸 | ![](./apps/usb-xmvsf-ss/icon.png) | X-Men vs. Street Fighter | xmvsf.zip
-32 | X - 吸血鬼救世主1 吸血鬼之王 | ![](./apps/usb-vsav-ss/icon.png) | Vampire Savior | vsav.zip
-33 | X - 吸血鬼救世主2 吸血鬼之王 | ![](./apps/usb-vsav2-ss/icon.png) | Vampire Savior 2 | vsav2.zip
-34 | X - 吸血鬼猎人1 恶魔的复仇 | ![](./apps/usb-nwarr-ss/icon.png) | Vampire Hunter | nwarr.zip
-35 | X - 吸血鬼猎人2 恶魔的复仇 | ![](./apps/usb-vhunt2-ss/icon.png) | Vampire Hunter 2 | vhunt2.zip
+32 | X - 吸血鬼猎人1 恶魔的复仇 | ![](./apps/usb-nwarr-ss/icon.png) | Vampire Hunter | nwarr.zip
+33 | X - 吸血鬼猎人2 恶魔的复仇 | ![](./apps/usb-vhunt2-ss/icon.png) | Vampire Hunter 2 | vhunt2.zip
+34 | X - 恶魔救世主1 吸血鬼之王 | ![](./apps/usb-vsav-ss/icon.png) | Vampire Savior | vsav.zip
+35 | X - 恶魔救世主2 吸血鬼之王 | ![](./apps/usb-vsav2-ss/icon.png) | Vampire Savior 2 | vsav2.zip
 36 | Y - 异形对铁血战士 | ![](./apps/usb-avsp-ss/icon.png) | Alien vs. Predator | avsp.zip
 37 | Y - 益智麻将牌 长江 | ![](./apps/usb-choko-ss/icon.png) | Janpai Puzzle Choukou | choko.zip
 38 | Z - 战斗回路 | ![](./apps/usb-batcir-ss/icon.png) | Battle Circuit | batcir.zip
