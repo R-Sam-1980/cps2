@@ -54,7 +54,7 @@
 38 | vsav.zip | AB46F0EE | | X - 恶魔救世主1 吸血鬼之王 |
 39 | vsav2.zip | FFED36BB | | X - 恶魔救世主2 吸血鬼之王 |
 40 | xmcota.zip | 24DE20B9 | | X - X战警 磁场原子人 |
-41 | xmvsf.zip | F1A75536 | | X - X战警对街霸 |
+41 | xmvsf.zip | F1A75536 | | X - X战警对街头霸王 |
 
 **建议优先使用 Arcade (FinalBurn Neo) 核心加载游戏。**
 
