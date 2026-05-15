@@ -10,7 +10,7 @@
   "items": [
     {
       "path": "/dev_hdd0/game/RETROARCH/USRDIR/arcade/cps2/1944d.zip",
-      "label": "# - 1944 循环的征服者",
+      "label": "# - 1944 征服世界",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "8AED6511|crc",
@@ -42,7 +42,7 @@
     },
     {
       "path": "/dev_hdd0/game/RETROARCH/USRDIR/arcade/cps2/ssf2t.zip",
-      "label": "C - 超级街头霸王2 加强版",
+      "label": "C - 超级街头霸王2 加速版",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "92B67A50|crc",
@@ -154,7 +154,7 @@
     },
     {
       "path": "/dev_hdd0/game/RETROARCH/USRDIR/arcade/cps2/mvscud.zip",
-      "label": "M - 漫威对卡普空 超级英雄的碰撞",
+      "label": "M - 漫威对卡普空 超级英雄乱斗",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "73B92F08|crc",
@@ -162,7 +162,7 @@
     },
     {
       "path": "/dev_hdd0/game/RETROARCH/USRDIR/arcade/cps2/mshvsf.zip",
-      "label": "M - 漫威对街霸",
+      "label": "M - 漫威超级英雄对街头霸王",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "5E897C84|crc",
@@ -266,7 +266,7 @@
     },
     {
       "path": "/dev_hdd0/game/RETROARCH/USRDIR/arcade/cps2/vsav.zip",
-      "label": "X - 吸血鬼救世主1 吸血鬼之王",
+      "label": "X - 恶魔救世主1 吸血鬼之王",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "AB46F0EE|crc",
@@ -274,7 +274,7 @@
     },
     {
       "path": "/dev_hdd0/game/RETROARCH/USRDIR/arcade/cps2/vsav2.zip",
-      "label": "X - 吸血鬼救世主2 吸血鬼之王",
+      "label": "X - 恶魔救世主2 吸血鬼之王",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "FFED36BB|crc",
