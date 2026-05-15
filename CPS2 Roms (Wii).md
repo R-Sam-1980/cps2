@@ -46,7 +46,7 @@ Wii 版的 RetroArch 使用 Arcade (FB Alpha 2012 CPS-2) 核心来加载 CPS2 �
 37 | vsav.zip | AB46F0EE | Vampire Savior - The Lord of Vampire | X - 恶魔救世主1 吸血鬼之王
 38 | vsav2.zip | FFED36BB | Vampire Savior 2 - The Lord of Vampire | X - 恶魔救世主2 吸血鬼之王
 39 | xmcota.zip | 24DE20B9 | X-Men - Children of the Atom | X - X战警 磁场原子人
-40 | xmvsf.zip | F1A75536 | X-Men vs. Street Fighter | X - X战警对街霸
+40 | xmvsf.zip | F1A75536 | X-Men vs. Street Fighter | X - X战警对街头霸王
 
 
 ## 不可玩游戏列表
