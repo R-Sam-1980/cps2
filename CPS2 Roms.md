@@ -14,7 +14,7 @@
 
 序号 | ROM 文件 | CRC32 | 依赖于 | 游戏名称 | 兼容性说明
 --- | --- | --- | --- | --- | ---
-1 | 1944d.zip | 8AED6511 | 1944.zip | # - 1944 循环的征服者 |
+1 | 1944d.zip | 8AED6511 | 1944.zip | # - 1944 征服世界 |
 2 | 19xxd.zip | 696F34C6 | 19xx.zip | # - 19XX 命运否决战 |
 3 | armwar.zip | E4CA3E59 | | Z - 装甲战士 |
 4 | avsp.zip | 4BFE3F71 | | Y - 异形对铁血战士 |
@@ -35,8 +35,8 @@
 19 | mmatrix.zip | D7C6AB6C | | H - 火星矩阵 超固体射击 |
 20 | mpang.zip | 87EFFC38 | | C - 超强魔法气泡 |
 21 | msh.zip | 52F31C17 | | M - 漫威超级英雄 |
-22 | mshvsf.zip | 5E897C84 | | M - 漫威对街霸 |
-23 | mvscud.zip | 73B92F08 | mvsc.zip | M - 漫威对卡普空 超级英雄的碰撞 |
+22 | mshvsf.zip | 5E897C84 | | M - 漫威超级英雄对街头霸王 |
+23 | mvscud.zip | 73B92F08 | mvsc.zip | M - 漫威对卡普空1 超级英雄乱斗 |
 24 | nwarr.zip | 6A9DBB19 | | X - 吸血鬼猎人1 恶魔的复仇 |
 25 | progear.zip | 705FF2B3 | | N - 能源之岚 |
 26 | pzloop2.zip | 1CC2DB97 | | Z - 智力循环2 |
@@ -49,10 +49,10 @@
 33 | sgemf.zip | 3D5EB900 | | C - 超级口袋战士 |
 34 | spf2td.zip | C66B6CE7 | spf2t.zip | J - 街霸方块 |
 35 | ssf2d.zip | C77C5178 | ssf2.zip | C - 超级街头霸王2 新挑战者 |
-36 | ssf2t.zip | 92B67A50 | | C - 超级街头霸王2 加强版 |
+36 | ssf2t.zip | 92B67A50 | | C - 超级街头霸王2 加速版 |
 37 | vhunt2.zip | 024088A4 | | X - 吸血鬼猎人2 恶魔的复仇 |
-38 | vsav.zip | AB46F0EE | | X - 吸血鬼救世主1 吸血鬼之王 |
-39 | vsav2.zip | FFED36BB | | X - 吸血鬼救世主2 吸血鬼之王 |
+38 | vsav.zip | AB46F0EE | | X - 恶魔救世主1 吸血鬼之王 |
+39 | vsav2.zip | FFED36BB | | X - 恶魔救世主2 吸血鬼之王 |
 40 | xmcota.zip | 24DE20B9 | | X - X战警 磁场原子人 |
 41 | xmvsf.zip | F1A75536 | | X - X战警对街霸 |
 
