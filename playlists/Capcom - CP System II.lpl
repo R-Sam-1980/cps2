@@ -161,19 +161,19 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "X:\\arcade\\cps2\\mshvsf.zip",
-      "label": "M - 漫威超级英雄对街头霸王",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "5E897C84|crc",
-      "db_name": "Capcom - CP System II.lpl"
-    },
-    {
       "path": "X:\\arcade\\cps2\\msh.zip",
       "label": "M - 漫威超级英雄",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "52F31C17|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "X:\\arcade\\cps2\\mshvsf.zip",
+      "label": "M - 漫威超级英雄对街头霸王",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5E897C84|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
@@ -265,22 +265,6 @@
       "db_name": "Capcom - CP System II.lpl"
     },
     {
-      "path": "X:\\arcade\\cps2\\vsav.zip",
-      "label": "X - 恶魔救世主1 吸血鬼之王",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "AB46F0EE|crc",
-      "db_name": "Capcom - CP System II.lpl"
-    },
-    {
-      "path": "X:\\arcade\\cps2\\vsav2.zip",
-      "label": "X - 恶魔救世主2 吸血鬼之王",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "FFED36BB|crc",
-      "db_name": "Capcom - CP System II.lpl"
-    },
-    {
       "path": "X:\\arcade\\cps2\\nwarr.zip",
       "label": "X - 吸血鬼猎人1 恶魔的复仇",
       "core_path": "DETECT",
@@ -294,6 +278,22 @@
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "024088A4|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "X:\\arcade\\cps2\\vsav.zip",
+      "label": "X - 恶魔救世主1 吸血鬼之王",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AB46F0EE|crc",
+      "db_name": "Capcom - CP System II.lpl"
+    },
+    {
+      "path": "X:\\arcade\\cps2\\vsav2.zip",
+      "label": "X - 恶魔救世主2 吸血鬼之王",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FFED36BB|crc",
       "db_name": "Capcom - CP System II.lpl"
     },
     {
