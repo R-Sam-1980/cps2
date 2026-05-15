@@ -36,7 +36,7 @@
 20 | mpang.zip | 87EFFC38 | | C - 超强魔法气泡 |
 21 | msh.zip | 52F31C17 | | M - 漫威超级英雄 |
 22 | mshvsf.zip | 5E897C84 | | M - 漫威超级英雄对街头霸王 |
-23 | mvscud.zip | 73B92F08 | mvsc.zip | M - 漫威对卡普空1 超级英雄乱斗 |
+23 | mvscud.zip | 73B92F08 | mvsc.zip | M - 漫威对卡普空 超级英雄乱斗 |
 24 | nwarr.zip | 6A9DBB19 | | X - 吸血鬼猎人1 恶魔的复仇 |
 25 | progear.zip | 705FF2B3 | | N - 能源之岚 |
 26 | pzloop2.zip | 1CC2DB97 | | Z - 智力循环2 |
