@@ -1,6 +1,8 @@
 # CPS2 街机游戏兼容性列表
 
-Wii 版的 RetroArch 使用 Arcade (FB Alpha 2012 CPS-2) 核心来加载 CPS2 街机游戏。
+Wii 版的 RetroArch 使用以下核心来加载 CPS2 街机游戏：
+- 核心名称：Arcade (FB Alpha 2012 CPS-2)
+- 核心文件：fbalpha2012_cps2_libretro_wii.dol
 
 
 ## 可玩游戏列表
