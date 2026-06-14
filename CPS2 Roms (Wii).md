@@ -30,7 +30,7 @@ Wii 版的 RetroArch 使用以下核心来加载 CPS2 街机游戏：
 19 | mpang.zip | 87EFFC38 | Mighty! Pang | 超强魔法气泡
 20 | msh.zip | 52F31C17 | Marvel Super Heroes | 漫威超级英雄
 21 | mshvsf.zip | 5E897C84 | Marvel Super Heroes vs. Street Fighter | 漫威超级英雄对街头霸王
-22 | mvsc.zip | 6EA78DD6 | Marvel vs. Capcom - Clash of Super Heroes | 漫威对卡普空 超级英雄乱斗
+22 | mvsc.zip | 9302942E | Marvel vs. Capcom - Clash of Super Heroes | 漫威对卡普空 超级英雄乱斗
 23 | nwarr.zip | 6A9DBB19 | Night Warriors - Darkstalkers' Revenge | 吸血鬼猎人1 恶魔的复仇
 24 | progear.zip | 705FF2B3 | Progear | 能源之岚
 25 | pzloop2.zip | 1CC2DB97 | Puzz Loop 2 | 智力循环2
