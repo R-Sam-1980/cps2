@@ -1,12 +1,14 @@
 # CPS2 街机游戏 App 列表
 
-1G1R1App 是 1 Game 1 ROM 1 App 的缩写，意思是一个游戏只选取一个最佳版本的 ROM 文件，同时还有一个独立的 App 专门负责加载这个游戏的 ROM 文件。
+1G1R1A 是 one Game one ROM one App 的缩写，意思是一个游戏只选取一个最佳版本的 ROM 文件，同时还有一个独立的 App 专门负责加载这个游戏的 ROM 文件。
 
 RA-SS Hexaeco 使用 Arcade CPS2.dol 核心来加载 CPS2 街机游戏。
 
-以下这些 CPS2 街机游戏 App，皆基于该核心制作，注意：
-- SD 版的 App 必须和游戏 ROM 文件一起放置在 SD 卡才能正常运行；
-- USB 版的 App 必须和游戏 ROM 文件一起放置在分区格式为 FAT32 的 USB 存储设备才能正常运行。
+以下这些 CPS2 街机游戏 App，都是基于该核心制作的。
+
+> 注意：
+> - SD 版的 App 文件必须和游戏 ROM 文件一起放置在 SD 卡才能正常运行；
+> - USB 版的 App 文件必须和游戏 ROM 文件一起放置在分区格式为 FAT32 的 USB 存储设备才能正常运行。
 
 ## 按 App 名称排序
 
