@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>1944 - The Loop Master</name>
+  <author>SuperrSonic &amp; R-Sam</author>
+  <version>USB</version>
+  <release_date>20220508</release_date>
+  <short_description>Capcom Play System 2 Emulator</short_description>
+  <long_description>1944 - The Loop Master
+
+- Developer &amp; Publisher: Capcom
+- Genre: Shooting / Vertical
+- Release Date: 2000-06-20
+- Max Players: 2
+
+Website: https://github.com/R-Sam-1980/cps2</long_description>
+  <ahb_access/>
+  <arguments>
+    <arg>usb:/arcade/fba/cps2</arg>
+    <arg>1944.zip</arg>
+    <arg>usb:/private/C2MOD/1944.cfg</arg>
+  </arguments>
+</app>
